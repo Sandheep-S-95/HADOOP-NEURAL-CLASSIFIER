@@ -1,5 +1,4 @@
 # 💡HADOOP-NEURAL-CLASSIFIER 
-![Neural Network MapReduce](https://github.com/Sandheep-S-95)
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/) [![MRJob](https://img.shields.io/badge/MRJob-0.7.4-green.svg)](https://mrjob.readthedocs.io/) [![NumPy](https://img.shields.io/badge/NumPy-1.21%2B-orange.svg)](https://numpy.org/) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
